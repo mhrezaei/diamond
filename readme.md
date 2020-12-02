@@ -1,4 +1,1 @@
-# Diamond Card Project With Laravel PHP Framework
-
-# Mohammad Hadi Rezaei
-# Taha Kamkar
+### Diamond Card Project With Laravel PHP Framework
